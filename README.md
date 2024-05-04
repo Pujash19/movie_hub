@@ -6,9 +6,6 @@ MovieHub is a modern and interactive movie application built using React, a popu
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -32,26 +29,3 @@ MovieHub is a modern and interactive movie application built using React, a popu
 - **Git:** Track changes, collaborate with others, and manage versions of the codebase efficiently using Git version control.
 - **GitHub:** Host the code repository and manage project development using GitHub's collaborative features.
 - **Deployment:** Deploy the app to a hosting platform, such as GitHub Pages or Netlify, to make it accessible to users worldwide.
-
-## Installation and Usage
-
-1. Clone the repository: `git clone https://github.com/your-username/moviehub.git`
-2. Navigate to the project directory: `cd moviehub`
-3. Install dependencies: `npm install`
-4. Obtain API keys from TMDB or other movie-related APIs and configure them in the app.
-5. Start the development server: `npm start`
-6. Open the app in your browser at `http://localhost:3000`.
-
-## Contributing
-
-Contributions to MovieHub are welcome! If you find any bugs, have suggestions for new features, or would like to contribute in any other way, feel free to submit a pull request or open an issue in the GitHub repository.
-
-When contributing, please follow the existing code style and ensure that your changes do not break the app's existing functionality. Provide clear and concise explanations of the changes made, along with any relevant supporting documentation.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT), allowing you to modify, distribute, and use the code for personal and commercial purposes.
-
----
-
-Start exploring the fascinating world of movies with MovieHub and enjoy a rich, immersive experience right at your fingertips.
